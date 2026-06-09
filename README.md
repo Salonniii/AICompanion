@@ -10,15 +10,15 @@ The app allows users to chat with multiple AI models, manage conversations, shar
 
 | Splash Screen | Login Screen |
 |---------------|-------------|
-| <img src="screenshots/splash_screen.jpg" width="250"/> | <img src="screenshots/login_screen.jpg" width="250"/> |
+| <img src="screenshots/splash_screen.jpeg" width="250"/> | <img src="screenshots/login_screen.jpeg" width="250"/> |
 
 | Chat Interface | Model Guide |
 |---------------|-------------|
-| <img src="screenshots/chat_screen.jpg" width="250"/> | <img src="screenshots/model_guide.jpg" width="250"/> |
+| <img src="screenshots/chat_screen.jpeg" width="250"/> | <img src="screenshots/model_guide.jpeg" width="250"/> |
 
 | Chat Management Drawer | Shared Chat Webpage |
 |------------------------|---------------------|
-| <img src="screenshots/sidebar.jpg" width="250"/> | <img src="screenshots/shared_chat.jpg" width="250"/> |
+| <img src="screenshots/sidebar.jpeg" width="250"/> | <img src="screenshots/shared_chat.jpeg" width="250"/> |
 
 ---
 
